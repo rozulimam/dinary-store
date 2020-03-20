@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "376213100286",
+    "firebase_url": "https://zaviera-486ff.firebaseio.com",
+    "project_id": "zaviera-486ff",
+    "storage_bucket": "zaviera-486ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376213100286:android:c692b7d2b37e236bf837af",
+        "android_client_info": {
+          "package_name": "com.zaviera.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376213100286-eum4ldg1vguahbvde5i3arkpio5mr2l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJfOX6bVnofZxVIaRFZt4sCnPl-JSaYJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376213100286-eum4ldg1vguahbvde5i3arkpio5mr2l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
